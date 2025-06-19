@@ -1,111 +1,64 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Jay doshi, a Full-Stack-Developer 👨‍💻 </div>  
-  
+<br />
 
-- 🔭 I’m currently working on Calendar-app with Google-meet and google-calendar integration in it and also Zoom integration.  
-  
+<h2 align="center">Hi, I'm Jay Doshi — Full Stack Developer | DevOps Enthusiast | AI/ML Learner</h2>  
 
-- 🌱 I’m currently learning Rust, Aws and Devops   
-  
+<br/>
 
-- ❓ Ask me about anything related to MERN stack, Prisma, Postgres and NextJs.  
-  
+🚀 Currently building a **SaaS Automation Platform** to simplify and streamline developer workflows.  
+🧠 Learning and experimenting with **AI/ML**, **Golang**, **AWS**, **Docker**, and **Kubernetes**.  
+📐 Exploring advanced topics in **AI system architecture**, **LangChain**, **scalable backend design**, and **DevOps pipelines**.  
+💬 Open to discussing **MERN**, **Next.js**, **Prisma**, **PostgreSQL**, and **early-stage tech stacks**.  
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+---
 
-<br/>  
+## 🧠 Tech Stack
 
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### 🖥️ Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+### ⚙️ Backend  
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### ☁️ DevOps & AI/ML  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/golang-original.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" height="50" />
 </div>
 
 </td></tr></table>  
 
-<br/>  
+---
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/jaydoshi0109" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Jay_doshi_01" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jay-d-b236b4236" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaydoshi0109&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-  
-
-<br/>  
+## 🌐 Connect With Me  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jaydoshi0109&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
+  <a href="https://github.com/jaydoshi0109"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/Jay_doshi_01"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jay-d-b236b4236"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
