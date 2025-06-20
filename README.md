@@ -1,6 +1,6 @@
 # 👨‍💻 Jay Doshi
 
-**Full Stack Developer | AI/ML Enthusiast | DevOps Learner**
+**Full Stack Developer | AI/ML Enthusiast | DevOps**
 
 ---
 
